@@ -1,0 +1,25 @@
+{
+  "shift_minutes": 480,
+  "planning_shifts": [
+    [
+      10560,
+      11040
+    ],
+    [
+      11040,
+      11520
+    ],
+    [
+      11520,
+      12000
+    ]
+  ],
+  "baseline_capacity": {
+    "L1": 1,
+    "L2": 1,
+    "QA": 1,
+    "RW": 1,
+    "BUF": 3
+  },
+  "investment_budget_cents": 940000
+}

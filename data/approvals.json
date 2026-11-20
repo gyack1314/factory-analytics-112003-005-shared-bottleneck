@@ -1,0 +1,14 @@
+[
+  {
+    "option": "A",
+    "decision": "确认",
+    "at_min": 10558,
+    "phase": 1
+  },
+  {
+    "option": "C",
+    "decision": "待比较",
+    "at_min": 10710,
+    "phase": 2
+  }
+]

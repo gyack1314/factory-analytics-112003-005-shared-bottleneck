@@ -1,0 +1,794 @@
+[
+  {
+    "order": "O00-0",
+    "at_min": 45,
+    "units": 13,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O00-1",
+    "at_min": 60,
+    "units": 19,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O00-2",
+    "at_min": 120,
+    "units": 20,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O00-3",
+    "at_min": 180,
+    "units": 28,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O00-4",
+    "at_min": 240,
+    "units": 12,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O00-5",
+    "at_min": 300,
+    "units": 8,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O01-0",
+    "at_min": 480,
+    "units": 12,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O01-1",
+    "at_min": 540,
+    "units": 15,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O01-2",
+    "at_min": 600,
+    "units": 24,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O01-3",
+    "at_min": 660,
+    "units": 12,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O01-4",
+    "at_min": 720,
+    "units": 28,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O01-5",
+    "at_min": 825,
+    "units": 15,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O02-0",
+    "at_min": 960,
+    "units": 8,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O02-1",
+    "at_min": 1020,
+    "units": 21,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O02-2",
+    "at_min": 1080,
+    "units": 23,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O02-3",
+    "at_min": 1140,
+    "units": 11,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O02-4",
+    "at_min": 1245,
+    "units": 26,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O02-5",
+    "at_min": 1260,
+    "units": 21,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O03-0",
+    "at_min": 1440,
+    "units": 25,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O03-1",
+    "at_min": 1500,
+    "units": 11,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O03-2",
+    "at_min": 1560,
+    "units": 9,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O03-3",
+    "at_min": 1665,
+    "units": 28,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O03-4",
+    "at_min": 1680,
+    "units": 10,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O03-5",
+    "at_min": 1740,
+    "units": 13,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O04-0",
+    "at_min": 1920,
+    "units": 27,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O04-1",
+    "at_min": 1980,
+    "units": 28,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O04-2",
+    "at_min": 2085,
+    "units": 18,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O04-3",
+    "at_min": 2100,
+    "units": 24,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O04-4",
+    "at_min": 2160,
+    "units": 30,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O04-5",
+    "at_min": 2220,
+    "units": 19,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O05-0",
+    "at_min": 2400,
+    "units": 30,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O05-1",
+    "at_min": 2505,
+    "units": 11,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O05-2",
+    "at_min": 2520,
+    "units": 20,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O05-3",
+    "at_min": 2580,
+    "units": 16,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O05-4",
+    "at_min": 2640,
+    "units": 9,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O05-5",
+    "at_min": 2700,
+    "units": 20,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O06-0",
+    "at_min": 2925,
+    "units": 17,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O06-1",
+    "at_min": 2940,
+    "units": 30,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O06-2",
+    "at_min": 3000,
+    "units": 22,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O06-3",
+    "at_min": 3060,
+    "units": 26,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O06-4",
+    "at_min": 3120,
+    "units": 14,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O06-5",
+    "at_min": 3180,
+    "units": 24,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O07-0",
+    "at_min": 3360,
+    "units": 18,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O07-1",
+    "at_min": 3420,
+    "units": 20,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O07-2",
+    "at_min": 3480,
+    "units": 21,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O07-3",
+    "at_min": 3540,
+    "units": 20,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O07-4",
+    "at_min": 3600,
+    "units": 22,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O07-5",
+    "at_min": 3705,
+    "units": 26,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O08-0",
+    "at_min": 3840,
+    "units": 27,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O08-1",
+    "at_min": 3900,
+    "units": 26,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O08-2",
+    "at_min": 3960,
+    "units": 24,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O08-3",
+    "at_min": 4020,
+    "units": 24,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O08-4",
+    "at_min": 4125,
+    "units": 12,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O08-5",
+    "at_min": 4140,
+    "units": 19,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O09-0",
+    "at_min": 4320,
+    "units": 16,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O09-1",
+    "at_min": 4380,
+    "units": 29,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O09-2",
+    "at_min": 4440,
+    "units": 9,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O09-3",
+    "at_min": 4545,
+    "units": 12,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O09-4",
+    "at_min": 4560,
+    "units": 21,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O09-5",
+    "at_min": 4620,
+    "units": 22,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O10-0",
+    "at_min": 4800,
+    "units": 12,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O10-1",
+    "at_min": 4860,
+    "units": 9,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O10-2",
+    "at_min": 4965,
+    "units": 27,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O10-3",
+    "at_min": 4980,
+    "units": 8,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O10-4",
+    "at_min": 5040,
+    "units": 13,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O10-5",
+    "at_min": 5100,
+    "units": 23,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O11-0",
+    "at_min": 5280,
+    "units": 17,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O11-1",
+    "at_min": 5385,
+    "units": 15,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O11-2",
+    "at_min": 5400,
+    "units": 10,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O11-3",
+    "at_min": 5460,
+    "units": 19,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O11-4",
+    "at_min": 5520,
+    "units": 16,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O11-5",
+    "at_min": 5580,
+    "units": 21,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O12-0",
+    "at_min": 5805,
+    "units": 13,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O12-1",
+    "at_min": 5820,
+    "units": 12,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O12-2",
+    "at_min": 5880,
+    "units": 8,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O12-3",
+    "at_min": 5940,
+    "units": 25,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O12-4",
+    "at_min": 6000,
+    "units": 25,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O12-5",
+    "at_min": 6060,
+    "units": 12,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O13-0",
+    "at_min": 6240,
+    "units": 29,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O13-1",
+    "at_min": 6300,
+    "units": 29,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O13-2",
+    "at_min": 6360,
+    "units": 30,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O13-3",
+    "at_min": 6420,
+    "units": 17,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O13-4",
+    "at_min": 6480,
+    "units": 28,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O13-5",
+    "at_min": 6585,
+    "units": 10,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O14-0",
+    "at_min": 6720,
+    "units": 27,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O14-1",
+    "at_min": 6780,
+    "units": 20,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O14-2",
+    "at_min": 6840,
+    "units": 26,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O14-3",
+    "at_min": 6900,
+    "units": 29,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O14-4",
+    "at_min": 7005,
+    "units": 27,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O14-5",
+    "at_min": 7020,
+    "units": 26,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O15-0",
+    "at_min": 7200,
+    "units": 11,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O15-1",
+    "at_min": 7260,
+    "units": 18,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O15-2",
+    "at_min": 7320,
+    "units": 24,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O15-3",
+    "at_min": 7425,
+    "units": 11,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O15-4",
+    "at_min": 7440,
+    "units": 14,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O15-5",
+    "at_min": 7500,
+    "units": 14,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O16-0",
+    "at_min": 7680,
+    "units": 20,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O16-1",
+    "at_min": 7740,
+    "units": 10,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O16-2",
+    "at_min": 7845,
+    "units": 29,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O16-3",
+    "at_min": 7860,
+    "units": 20,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O16-4",
+    "at_min": 7920,
+    "units": 18,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O16-5",
+    "at_min": 7980,
+    "units": 28,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O17-0",
+    "at_min": 8160,
+    "units": 13,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O17-1",
+    "at_min": 8265,
+    "units": 13,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O17-2",
+    "at_min": 8280,
+    "units": 30,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O17-3",
+    "at_min": 8340,
+    "units": 17,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O17-4",
+    "at_min": 8400,
+    "units": 28,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O17-5",
+    "at_min": 8460,
+    "units": 27,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O18-0",
+    "at_min": 8685,
+    "units": 22,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O18-1",
+    "at_min": 8700,
+    "units": 28,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O18-2",
+    "at_min": 8760,
+    "units": 27,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O18-3",
+    "at_min": 8820,
+    "units": 29,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O18-4",
+    "at_min": 8880,
+    "units": 23,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O18-5",
+    "at_min": 8940,
+    "units": 24,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O19-0",
+    "at_min": 9120,
+    "units": 24,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O19-1",
+    "at_min": 9180,
+    "units": 20,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O19-2",
+    "at_min": 9240,
+    "units": 26,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O19-3",
+    "at_min": 9300,
+    "units": 28,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O19-4",
+    "at_min": 9360,
+    "units": 27,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O19-5",
+    "at_min": 9465,
+    "units": 17,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O20-0",
+    "at_min": 9600,
+    "units": 21,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O20-1",
+    "at_min": 9660,
+    "units": 22,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O20-2",
+    "at_min": 9720,
+    "units": 9,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O20-3",
+    "at_min": 9780,
+    "units": 8,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O20-4",
+    "at_min": 9885,
+    "units": 12,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O20-5",
+    "at_min": 9900,
+    "units": 14,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O21-0",
+    "at_min": 10080,
+    "units": 21,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O21-1",
+    "at_min": 10140,
+    "units": 27,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O21-2",
+    "at_min": 10200,
+    "units": 29,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O21-3",
+    "at_min": 10305,
+    "units": 20,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O21-4",
+    "at_min": 10320,
+    "units": 21,
+    "kind": "材料签收"
+  },
+  {
+    "order": "O21-5",
+    "at_min": 10380,
+    "units": 16,
+    "kind": "材料签收"
+  }
+]

@@ -1,0 +1,772 @@
+[
+  {
+    "shift": 0,
+    "resource": "L1",
+    "start_min": 0,
+    "end_min": 480,
+    "capacity": 1
+  },
+  {
+    "shift": 0,
+    "resource": "L2",
+    "start_min": 0,
+    "end_min": 480,
+    "capacity": 1
+  },
+  {
+    "shift": 0,
+    "resource": "QA",
+    "start_min": 0,
+    "end_min": 480,
+    "capacity": 1
+  },
+  {
+    "shift": 0,
+    "resource": "RW",
+    "start_min": 12,
+    "end_min": 455,
+    "capacity": 1
+  },
+  {
+    "shift": 0,
+    "resource": "BUF",
+    "start_min": 0,
+    "end_min": 480,
+    "capacity": 3
+  },
+  {
+    "shift": 1,
+    "resource": "L1",
+    "start_min": 480,
+    "end_min": 960,
+    "capacity": 1
+  },
+  {
+    "shift": 1,
+    "resource": "L2",
+    "start_min": 480,
+    "end_min": 960,
+    "capacity": 1
+  },
+  {
+    "shift": 1,
+    "resource": "QA",
+    "start_min": 480,
+    "end_min": 960,
+    "capacity": 1
+  },
+  {
+    "shift": 1,
+    "resource": "RW",
+    "start_min": 492,
+    "end_min": 935,
+    "capacity": 1
+  },
+  {
+    "shift": 1,
+    "resource": "BUF",
+    "start_min": 480,
+    "end_min": 960,
+    "capacity": 3
+  },
+  {
+    "shift": 2,
+    "resource": "L1",
+    "start_min": 960,
+    "end_min": 1440,
+    "capacity": 1
+  },
+  {
+    "shift": 2,
+    "resource": "L2",
+    "start_min": 960,
+    "end_min": 1440,
+    "capacity": 1
+  },
+  {
+    "shift": 2,
+    "resource": "QA",
+    "start_min": 960,
+    "end_min": 1440,
+    "capacity": 1
+  },
+  {
+    "shift": 2,
+    "resource": "RW",
+    "start_min": 972,
+    "end_min": 1415,
+    "capacity": 1
+  },
+  {
+    "shift": 2,
+    "resource": "BUF",
+    "start_min": 960,
+    "end_min": 1440,
+    "capacity": 3
+  },
+  {
+    "shift": 3,
+    "resource": "L1",
+    "start_min": 1440,
+    "end_min": 1920,
+    "capacity": 1
+  },
+  {
+    "shift": 3,
+    "resource": "L2",
+    "start_min": 1440,
+    "end_min": 1920,
+    "capacity": 1
+  },
+  {
+    "shift": 3,
+    "resource": "QA",
+    "start_min": 1440,
+    "end_min": 1920,
+    "capacity": 1
+  },
+  {
+    "shift": 3,
+    "resource": "RW",
+    "start_min": 1452,
+    "end_min": 1895,
+    "capacity": 1
+  },
+  {
+    "shift": 3,
+    "resource": "BUF",
+    "start_min": 1440,
+    "end_min": 1920,
+    "capacity": 3
+  },
+  {
+    "shift": 4,
+    "resource": "L1",
+    "start_min": 1920,
+    "end_min": 2400,
+    "capacity": 1
+  },
+  {
+    "shift": 4,
+    "resource": "L2",
+    "start_min": 1920,
+    "end_min": 2400,
+    "capacity": 1
+  },
+  {
+    "shift": 4,
+    "resource": "QA",
+    "start_min": 1920,
+    "end_min": 2400,
+    "capacity": 1
+  },
+  {
+    "shift": 4,
+    "resource": "RW",
+    "start_min": 1932,
+    "end_min": 2375,
+    "capacity": 1
+  },
+  {
+    "shift": 4,
+    "resource": "BUF",
+    "start_min": 1920,
+    "end_min": 2400,
+    "capacity": 3
+  },
+  {
+    "shift": 5,
+    "resource": "L1",
+    "start_min": 2400,
+    "end_min": 2880,
+    "capacity": 1
+  },
+  {
+    "shift": 5,
+    "resource": "L2",
+    "start_min": 2400,
+    "end_min": 2880,
+    "capacity": 1
+  },
+  {
+    "shift": 5,
+    "resource": "QA",
+    "start_min": 2400,
+    "end_min": 2880,
+    "capacity": 1
+  },
+  {
+    "shift": 5,
+    "resource": "RW",
+    "start_min": 2412,
+    "end_min": 2855,
+    "capacity": 1
+  },
+  {
+    "shift": 5,
+    "resource": "BUF",
+    "start_min": 2400,
+    "end_min": 2880,
+    "capacity": 3
+  },
+  {
+    "shift": 6,
+    "resource": "L1",
+    "start_min": 2880,
+    "end_min": 3360,
+    "capacity": 1
+  },
+  {
+    "shift": 6,
+    "resource": "L2",
+    "start_min": 2880,
+    "end_min": 3360,
+    "capacity": 1
+  },
+  {
+    "shift": 6,
+    "resource": "QA",
+    "start_min": 2880,
+    "end_min": 3360,
+    "capacity": 1
+  },
+  {
+    "shift": 6,
+    "resource": "RW",
+    "start_min": 2892,
+    "end_min": 3335,
+    "capacity": 1
+  },
+  {
+    "shift": 6,
+    "resource": "BUF",
+    "start_min": 2880,
+    "end_min": 3360,
+    "capacity": 3
+  },
+  {
+    "shift": 7,
+    "resource": "L1",
+    "start_min": 3360,
+    "end_min": 3840,
+    "capacity": 1
+  },
+  {
+    "shift": 7,
+    "resource": "L2",
+    "start_min": 3360,
+    "end_min": 3840,
+    "capacity": 1
+  },
+  {
+    "shift": 7,
+    "resource": "QA",
+    "start_min": 3360,
+    "end_min": 3840,
+    "capacity": 1
+  },
+  {
+    "shift": 7,
+    "resource": "RW",
+    "start_min": 3372,
+    "end_min": 3815,
+    "capacity": 1
+  },
+  {
+    "shift": 7,
+    "resource": "BUF",
+    "start_min": 3360,
+    "end_min": 3840,
+    "capacity": 3
+  },
+  {
+    "shift": 8,
+    "resource": "L1",
+    "start_min": 3840,
+    "end_min": 4320,
+    "capacity": 1
+  },
+  {
+    "shift": 8,
+    "resource": "L2",
+    "start_min": 3840,
+    "end_min": 4320,
+    "capacity": 1
+  },
+  {
+    "shift": 8,
+    "resource": "QA",
+    "start_min": 3840,
+    "end_min": 4320,
+    "capacity": 1
+  },
+  {
+    "shift": 8,
+    "resource": "RW",
+    "start_min": 3852,
+    "end_min": 4295,
+    "capacity": 1
+  },
+  {
+    "shift": 8,
+    "resource": "BUF",
+    "start_min": 3840,
+    "end_min": 4320,
+    "capacity": 3
+  },
+  {
+    "shift": 9,
+    "resource": "L1",
+    "start_min": 4320,
+    "end_min": 4800,
+    "capacity": 1
+  },
+  {
+    "shift": 9,
+    "resource": "L2",
+    "start_min": 4320,
+    "end_min": 4800,
+    "capacity": 1
+  },
+  {
+    "shift": 9,
+    "resource": "QA",
+    "start_min": 4320,
+    "end_min": 4800,
+    "capacity": 1
+  },
+  {
+    "shift": 9,
+    "resource": "RW",
+    "start_min": 4332,
+    "end_min": 4775,
+    "capacity": 1
+  },
+  {
+    "shift": 9,
+    "resource": "BUF",
+    "start_min": 4320,
+    "end_min": 4800,
+    "capacity": 3
+  },
+  {
+    "shift": 10,
+    "resource": "L1",
+    "start_min": 4800,
+    "end_min": 5280,
+    "capacity": 1
+  },
+  {
+    "shift": 10,
+    "resource": "L2",
+    "start_min": 4800,
+    "end_min": 5280,
+    "capacity": 1
+  },
+  {
+    "shift": 10,
+    "resource": "QA",
+    "start_min": 4800,
+    "end_min": 5280,
+    "capacity": 1
+  },
+  {
+    "shift": 10,
+    "resource": "RW",
+    "start_min": 4812,
+    "end_min": 5255,
+    "capacity": 1
+  },
+  {
+    "shift": 10,
+    "resource": "BUF",
+    "start_min": 4800,
+    "end_min": 5280,
+    "capacity": 3
+  },
+  {
+    "shift": 11,
+    "resource": "L1",
+    "start_min": 5280,
+    "end_min": 5760,
+    "capacity": 1
+  },
+  {
+    "shift": 11,
+    "resource": "L2",
+    "start_min": 5280,
+    "end_min": 5760,
+    "capacity": 1
+  },
+  {
+    "shift": 11,
+    "resource": "QA",
+    "start_min": 5280,
+    "end_min": 5760,
+    "capacity": 1
+  },
+  {
+    "shift": 11,
+    "resource": "RW",
+    "start_min": 5292,
+    "end_min": 5735,
+    "capacity": 1
+  },
+  {
+    "shift": 11,
+    "resource": "BUF",
+    "start_min": 5280,
+    "end_min": 5760,
+    "capacity": 3
+  },
+  {
+    "shift": 12,
+    "resource": "L1",
+    "start_min": 5760,
+    "end_min": 6240,
+    "capacity": 1
+  },
+  {
+    "shift": 12,
+    "resource": "L2",
+    "start_min": 5760,
+    "end_min": 6240,
+    "capacity": 1
+  },
+  {
+    "shift": 12,
+    "resource": "QA",
+    "start_min": 5760,
+    "end_min": 6240,
+    "capacity": 1
+  },
+  {
+    "shift": 12,
+    "resource": "RW",
+    "start_min": 5772,
+    "end_min": 6215,
+    "capacity": 1
+  },
+  {
+    "shift": 12,
+    "resource": "BUF",
+    "start_min": 5760,
+    "end_min": 6240,
+    "capacity": 3
+  },
+  {
+    "shift": 13,
+    "resource": "L1",
+    "start_min": 6240,
+    "end_min": 6720,
+    "capacity": 1
+  },
+  {
+    "shift": 13,
+    "resource": "L2",
+    "start_min": 6240,
+    "end_min": 6720,
+    "capacity": 1
+  },
+  {
+    "shift": 13,
+    "resource": "QA",
+    "start_min": 6240,
+    "end_min": 6720,
+    "capacity": 1
+  },
+  {
+    "shift": 13,
+    "resource": "RW",
+    "start_min": 6252,
+    "end_min": 6695,
+    "capacity": 1
+  },
+  {
+    "shift": 13,
+    "resource": "BUF",
+    "start_min": 6240,
+    "end_min": 6720,
+    "capacity": 3
+  },
+  {
+    "shift": 14,
+    "resource": "L1",
+    "start_min": 6720,
+    "end_min": 7200,
+    "capacity": 1
+  },
+  {
+    "shift": 14,
+    "resource": "L2",
+    "start_min": 6720,
+    "end_min": 7200,
+    "capacity": 1
+  },
+  {
+    "shift": 14,
+    "resource": "QA",
+    "start_min": 6720,
+    "end_min": 7200,
+    "capacity": 1
+  },
+  {
+    "shift": 14,
+    "resource": "RW",
+    "start_min": 6732,
+    "end_min": 7175,
+    "capacity": 1
+  },
+  {
+    "shift": 14,
+    "resource": "BUF",
+    "start_min": 6720,
+    "end_min": 7200,
+    "capacity": 3
+  },
+  {
+    "shift": 15,
+    "resource": "L1",
+    "start_min": 7200,
+    "end_min": 7680,
+    "capacity": 1
+  },
+  {
+    "shift": 15,
+    "resource": "L2",
+    "start_min": 7200,
+    "end_min": 7680,
+    "capacity": 1
+  },
+  {
+    "shift": 15,
+    "resource": "QA",
+    "start_min": 7200,
+    "end_min": 7680,
+    "capacity": 1
+  },
+  {
+    "shift": 15,
+    "resource": "RW",
+    "start_min": 7212,
+    "end_min": 7655,
+    "capacity": 1
+  },
+  {
+    "shift": 15,
+    "resource": "BUF",
+    "start_min": 7200,
+    "end_min": 7680,
+    "capacity": 3
+  },
+  {
+    "shift": 16,
+    "resource": "L1",
+    "start_min": 7680,
+    "end_min": 8160,
+    "capacity": 1
+  },
+  {
+    "shift": 16,
+    "resource": "L2",
+    "start_min": 7680,
+    "end_min": 8160,
+    "capacity": 1
+  },
+  {
+    "shift": 16,
+    "resource": "QA",
+    "start_min": 7680,
+    "end_min": 8160,
+    "capacity": 1
+  },
+  {
+    "shift": 16,
+    "resource": "RW",
+    "start_min": 7692,
+    "end_min": 8135,
+    "capacity": 1
+  },
+  {
+    "shift": 16,
+    "resource": "BUF",
+    "start_min": 7680,
+    "end_min": 8160,
+    "capacity": 3
+  },
+  {
+    "shift": 17,
+    "resource": "L1",
+    "start_min": 8160,
+    "end_min": 8640,
+    "capacity": 1
+  },
+  {
+    "shift": 17,
+    "resource": "L2",
+    "start_min": 8160,
+    "end_min": 8640,
+    "capacity": 1
+  },
+  {
+    "shift": 17,
+    "resource": "QA",
+    "start_min": 8160,
+    "end_min": 8640,
+    "capacity": 1
+  },
+  {
+    "shift": 17,
+    "resource": "RW",
+    "start_min": 8172,
+    "end_min": 8615,
+    "capacity": 1
+  },
+  {
+    "shift": 17,
+    "resource": "BUF",
+    "start_min": 8160,
+    "end_min": 8640,
+    "capacity": 3
+  },
+  {
+    "shift": 18,
+    "resource": "L1",
+    "start_min": 8640,
+    "end_min": 9120,
+    "capacity": 1
+  },
+  {
+    "shift": 18,
+    "resource": "L2",
+    "start_min": 8640,
+    "end_min": 9120,
+    "capacity": 1
+  },
+  {
+    "shift": 18,
+    "resource": "QA",
+    "start_min": 8640,
+    "end_min": 9120,
+    "capacity": 1
+  },
+  {
+    "shift": 18,
+    "resource": "RW",
+    "start_min": 8652,
+    "end_min": 9095,
+    "capacity": 1
+  },
+  {
+    "shift": 18,
+    "resource": "BUF",
+    "start_min": 8640,
+    "end_min": 9120,
+    "capacity": 3
+  },
+  {
+    "shift": 19,
+    "resource": "L1",
+    "start_min": 9120,
+    "end_min": 9600,
+    "capacity": 1
+  },
+  {
+    "shift": 19,
+    "resource": "L2",
+    "start_min": 9120,
+    "end_min": 9600,
+    "capacity": 1
+  },
+  {
+    "shift": 19,
+    "resource": "QA",
+    "start_min": 9120,
+    "end_min": 9600,
+    "capacity": 1
+  },
+  {
+    "shift": 19,
+    "resource": "RW",
+    "start_min": 9132,
+    "end_min": 9575,
+    "capacity": 1
+  },
+  {
+    "shift": 19,
+    "resource": "BUF",
+    "start_min": 9120,
+    "end_min": 9600,
+    "capacity": 3
+  },
+  {
+    "shift": 20,
+    "resource": "L1",
+    "start_min": 9600,
+    "end_min": 10080,
+    "capacity": 1
+  },
+  {
+    "shift": 20,
+    "resource": "L2",
+    "start_min": 9600,
+    "end_min": 10080,
+    "capacity": 1
+  },
+  {
+    "shift": 20,
+    "resource": "QA",
+    "start_min": 9600,
+    "end_min": 10080,
+    "capacity": 1
+  },
+  {
+    "shift": 20,
+    "resource": "RW",
+    "start_min": 9612,
+    "end_min": 10055,
+    "capacity": 1
+  },
+  {
+    "shift": 20,
+    "resource": "BUF",
+    "start_min": 9600,
+    "end_min": 10080,
+    "capacity": 3
+  },
+  {
+    "shift": 21,
+    "resource": "L1",
+    "start_min": 10080,
+    "end_min": 10560,
+    "capacity": 1
+  },
+  {
+    "shift": 21,
+    "resource": "L2",
+    "start_min": 10080,
+    "end_min": 10560,
+    "capacity": 1
+  },
+  {
+    "shift": 21,
+    "resource": "QA",
+    "start_min": 10080,
+    "end_min": 10560,
+    "capacity": 1
+  },
+  {
+    "shift": 21,
+    "resource": "RW",
+    "start_min": 10092,
+    "end_min": 10535,
+    "capacity": 1
+  },
+  {
+    "shift": 21,
+    "resource": "BUF",
+    "start_min": 10080,
+    "end_min": 10560,
+    "capacity": 3
+  }
+]

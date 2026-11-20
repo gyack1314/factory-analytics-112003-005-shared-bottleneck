@@ -1,0 +1,42 @@
+[
+  {
+    "option": "A",
+    "resource": "QA2",
+    "delta": 1,
+    "install_start_min": 10560,
+    "install_end_min": 10680,
+    "effective_min": 10680,
+    "cost_cents": 750000,
+    "exclusive_group": "检验"
+  },
+  {
+    "option": "B",
+    "resource": "QA",
+    "delta": 1,
+    "install_start_min": 10565,
+    "install_end_min": 10685,
+    "effective_min": 10685,
+    "cost_cents": 500000,
+    "exclusive_group": "检验"
+  },
+  {
+    "option": "C",
+    "resource": "BUF",
+    "delta": 2,
+    "install_start_min": 10685,
+    "install_end_min": 10745,
+    "effective_min": 10745,
+    "cost_cents": 89000,
+    "exclusive_group": null
+  },
+  {
+    "option": "D",
+    "resource": "L2",
+    "delta": 1,
+    "install_start_min": 11100,
+    "install_end_min": 11200,
+    "effective_min": 11200,
+    "cost_cents": 500000,
+    "exclusive_group": null
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "product": "厚板",
+    "assembly": [
+      "L1",
+      "L2"
+    ],
+    "inspection": "QA",
+    "alternative": null,
+    "max_rework": 1,
+    "allowed_lot_units": 20
+  },
+  {
+    "product": "薄板",
+    "assembly": [
+      "L1",
+      "L2"
+    ],
+    "inspection": "QA",
+    "alternative": "QA2",
+    "max_rework": 2,
+    "allowed_lot_units": 30
+  }
+]

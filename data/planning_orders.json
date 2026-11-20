@@ -1,0 +1,52 @@
+[
+  {
+    "order": "N1",
+    "line": "L1",
+    "product": "厚板",
+    "units": 42,
+    "available_min": 10560,
+    "due_min": 10930,
+    "priority": true,
+    "allow_partial": true
+  },
+  {
+    "order": "N2",
+    "line": "L2",
+    "product": "薄板",
+    "units": 26,
+    "available_min": 10570,
+    "due_min": 10910,
+    "priority": true,
+    "allow_partial": true
+  },
+  {
+    "order": "N3",
+    "line": "L1",
+    "product": "薄板",
+    "units": 65,
+    "available_min": 10610,
+    "due_min": 11000,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "N4",
+    "line": "L2",
+    "product": "厚板",
+    "units": 38,
+    "available_min": 10700,
+    "due_min": 11180,
+    "priority": true,
+    "allow_partial": true
+  },
+  {
+    "order": "N5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 57,
+    "available_min": 11000,
+    "due_min": 11440,
+    "priority": false,
+    "allow_partial": true
+  }
+]

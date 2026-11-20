@@ -1,0 +1,14 @@
+[
+  {
+    "order": "W1",
+    "due_min": 10610,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "W2",
+    "due_min": 10640,
+    "priority": true,
+    "allow_partial": true
+  }
+]

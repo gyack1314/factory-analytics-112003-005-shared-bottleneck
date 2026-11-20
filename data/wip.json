@@ -1,0 +1,20 @@
+[
+  {
+    "order": "W1",
+    "product": "厚板",
+    "units": 8,
+    "stage": "复验等待",
+    "resource": "BUF",
+    "queued_min": 10526,
+    "required_next": "QA"
+  },
+  {
+    "order": "W2",
+    "product": "薄板",
+    "units": 11,
+    "stage": "返工中",
+    "resource": "RW",
+    "queued_min": 10540,
+    "required_next": "QA"
+  }
+]

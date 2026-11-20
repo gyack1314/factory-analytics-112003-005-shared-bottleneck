@@ -1,0 +1,3935 @@
+[
+  {
+    "order": "O00-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 45,
+    "end_min": 63,
+    "units": 13,
+    "result": "完成"
+  },
+  {
+    "order": "O00-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 66,
+    "end_min": 80,
+    "units": 13,
+    "result": "部分退回"
+  },
+  {
+    "order": "O00-0",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 87,
+    "end_min": 105,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O00-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 107,
+    "end_min": 111,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O00-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 82,
+    "end_min": 82,
+    "units": 11,
+    "result": "签收"
+  },
+  {
+    "order": "O00-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 114,
+    "end_min": 114,
+    "units": 2,
+    "result": "签收"
+  },
+  {
+    "order": "O00-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 60,
+    "end_min": 84,
+    "units": 19,
+    "result": "完成"
+  },
+  {
+    "order": "O00-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 87,
+    "end_min": 101,
+    "units": 19,
+    "result": "通过"
+  },
+  {
+    "order": "O00-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 103,
+    "end_min": 103,
+    "units": 19,
+    "result": "签收"
+  },
+  {
+    "order": "O00-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 120,
+    "end_min": 145,
+    "units": 20,
+    "result": "完成"
+  },
+  {
+    "order": "O00-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 148,
+    "end_min": 162,
+    "units": 20,
+    "result": "通过"
+  },
+  {
+    "order": "O00-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 164,
+    "end_min": 164,
+    "units": 20,
+    "result": "签收"
+  },
+  {
+    "order": "O00-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 180,
+    "end_min": 213,
+    "units": 28,
+    "result": "完成"
+  },
+  {
+    "order": "O00-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 216,
+    "end_min": 230,
+    "units": 28,
+    "result": "通过"
+  },
+  {
+    "order": "O00-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 232,
+    "end_min": 232,
+    "units": 28,
+    "result": "签收"
+  },
+  {
+    "order": "O00-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 240,
+    "end_min": 257,
+    "units": 12,
+    "result": "完成"
+  },
+  {
+    "order": "O00-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 274,
+    "units": 12,
+    "result": "通过"
+  },
+  {
+    "order": "O00-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 276,
+    "end_min": 276,
+    "units": 12,
+    "result": "签收"
+  },
+  {
+    "order": "O00-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 300,
+    "end_min": 313,
+    "units": 8,
+    "result": "完成"
+  },
+  {
+    "order": "O00-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 316,
+    "end_min": 330,
+    "units": 8,
+    "result": "通过"
+  },
+  {
+    "order": "O00-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 332,
+    "end_min": 332,
+    "units": 8,
+    "result": "签收"
+  },
+  {
+    "order": "O01-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 480,
+    "end_min": 497,
+    "units": 12,
+    "result": "完成"
+  },
+  {
+    "order": "O01-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 504,
+    "end_min": 518,
+    "units": 12,
+    "result": "通过"
+  },
+  {
+    "order": "O01-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 520,
+    "end_min": 520,
+    "units": 12,
+    "result": "签收"
+  },
+  {
+    "order": "O01-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 540,
+    "end_min": 560,
+    "units": 15,
+    "result": "完成"
+  },
+  {
+    "order": "O01-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 567,
+    "end_min": 581,
+    "units": 15,
+    "result": "通过"
+  },
+  {
+    "order": "O01-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 583,
+    "end_min": 583,
+    "units": 15,
+    "result": "签收"
+  },
+  {
+    "order": "O01-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 600,
+    "end_min": 629,
+    "units": 24,
+    "result": "完成"
+  },
+  {
+    "order": "O01-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 636,
+    "end_min": 650,
+    "units": 24,
+    "result": "通过"
+  },
+  {
+    "order": "O01-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 652,
+    "end_min": 652,
+    "units": 24,
+    "result": "签收"
+  },
+  {
+    "order": "O01-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 660,
+    "end_min": 677,
+    "units": 12,
+    "result": "完成"
+  },
+  {
+    "order": "O01-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 684,
+    "end_min": 698,
+    "units": 12,
+    "result": "通过"
+  },
+  {
+    "order": "O01-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 700,
+    "end_min": 700,
+    "units": 12,
+    "result": "签收"
+  },
+  {
+    "order": "O01-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 720,
+    "end_min": 753,
+    "units": 28,
+    "result": "完成"
+  },
+  {
+    "order": "O01-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 774,
+    "units": 28,
+    "result": "部分退回"
+  },
+  {
+    "order": "O01-4",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 781,
+    "end_min": 799,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O01-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 801,
+    "end_min": 805,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O01-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 808,
+    "end_min": 808,
+    "units": 28,
+    "result": "签收"
+  },
+  {
+    "order": "O01-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 825,
+    "end_min": 845,
+    "units": 15,
+    "result": "完成"
+  },
+  {
+    "order": "O01-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 852,
+    "end_min": 866,
+    "units": 15,
+    "result": "通过"
+  },
+  {
+    "order": "O01-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 868,
+    "end_min": 868,
+    "units": 15,
+    "result": "签收"
+  },
+  {
+    "order": "O02-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 960,
+    "end_min": 973,
+    "units": 8,
+    "result": "完成"
+  },
+  {
+    "order": "O02-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 984,
+    "end_min": 998,
+    "units": 8,
+    "result": "通过"
+  },
+  {
+    "order": "O02-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1000,
+    "end_min": 1000,
+    "units": 8,
+    "result": "签收"
+  },
+  {
+    "order": "O02-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 1020,
+    "end_min": 1046,
+    "units": 21,
+    "result": "完成"
+  },
+  {
+    "order": "O02-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1057,
+    "end_min": 1071,
+    "units": 21,
+    "result": "部分退回"
+  },
+  {
+    "order": "O02-1",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 1078,
+    "end_min": 1096,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O02-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1098,
+    "end_min": 1102,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O02-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1105,
+    "end_min": 1105,
+    "units": 21,
+    "result": "签收"
+  },
+  {
+    "order": "O02-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 1080,
+    "end_min": 1108,
+    "units": 23,
+    "result": "完成"
+  },
+  {
+    "order": "O02-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1119,
+    "end_min": 1133,
+    "units": 23,
+    "result": "通过"
+  },
+  {
+    "order": "O02-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1135,
+    "end_min": 1135,
+    "units": 23,
+    "result": "签收"
+  },
+  {
+    "order": "O02-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 1140,
+    "end_min": 1156,
+    "units": 11,
+    "result": "完成"
+  },
+  {
+    "order": "O02-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1167,
+    "end_min": 1181,
+    "units": 11,
+    "result": "通过"
+  },
+  {
+    "order": "O02-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1183,
+    "end_min": 1183,
+    "units": 11,
+    "result": "签收"
+  },
+  {
+    "order": "O02-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 1245,
+    "end_min": 1276,
+    "units": 26,
+    "result": "完成"
+  },
+  {
+    "order": "O02-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 1301,
+    "units": 26,
+    "result": "通过"
+  },
+  {
+    "order": "O02-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1303,
+    "end_min": 1303,
+    "units": 26,
+    "result": "签收"
+  },
+  {
+    "order": "O02-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 1260,
+    "end_min": 1286,
+    "units": 21,
+    "result": "完成"
+  },
+  {
+    "order": "O02-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1297,
+    "end_min": 1311,
+    "units": 21,
+    "result": "通过"
+  },
+  {
+    "order": "O02-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1313,
+    "end_min": 1313,
+    "units": 21,
+    "result": "签收"
+  },
+  {
+    "order": "O03-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 1440,
+    "end_min": 1470,
+    "units": 25,
+    "result": "完成"
+  },
+  {
+    "order": "O03-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1485,
+    "end_min": 1499,
+    "units": 25,
+    "result": "通过"
+  },
+  {
+    "order": "O03-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1501,
+    "end_min": 1501,
+    "units": 25,
+    "result": "签收"
+  },
+  {
+    "order": "O03-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 1500,
+    "end_min": 1516,
+    "units": 11,
+    "result": "完成"
+  },
+  {
+    "order": "O03-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1531,
+    "end_min": 1545,
+    "units": 11,
+    "result": "通过"
+  },
+  {
+    "order": "O03-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1547,
+    "end_min": 1547,
+    "units": 11,
+    "result": "签收"
+  },
+  {
+    "order": "O03-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 1560,
+    "end_min": 1574,
+    "units": 9,
+    "result": "完成"
+  },
+  {
+    "order": "O03-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1589,
+    "end_min": 1603,
+    "units": 9,
+    "result": "通过"
+  },
+  {
+    "order": "O03-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1605,
+    "end_min": 1605,
+    "units": 9,
+    "result": "签收"
+  },
+  {
+    "order": "O03-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 1665,
+    "end_min": 1698,
+    "units": 28,
+    "result": "完成"
+  },
+  {
+    "order": "O03-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1713,
+    "end_min": 1727,
+    "units": 28,
+    "result": "通过"
+  },
+  {
+    "order": "O03-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1729,
+    "end_min": 1729,
+    "units": 28,
+    "result": "签收"
+  },
+  {
+    "order": "O03-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 1680,
+    "end_min": 1695,
+    "units": 10,
+    "result": "完成"
+  },
+  {
+    "order": "O03-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 1724,
+    "units": 10,
+    "result": "通过"
+  },
+  {
+    "order": "O03-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1726,
+    "end_min": 1726,
+    "units": 10,
+    "result": "签收"
+  },
+  {
+    "order": "O03-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 1740,
+    "end_min": 1758,
+    "units": 13,
+    "result": "完成"
+  },
+  {
+    "order": "O03-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1773,
+    "end_min": 1787,
+    "units": 13,
+    "result": "部分退回"
+  },
+  {
+    "order": "O03-5",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 1794,
+    "end_min": 1812,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O03-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1814,
+    "end_min": 1818,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O03-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1821,
+    "end_min": 1821,
+    "units": 13,
+    "result": "签收"
+  },
+  {
+    "order": "O04-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 1920,
+    "end_min": 1952,
+    "units": 27,
+    "result": "完成"
+  },
+  {
+    "order": "O04-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 1971,
+    "end_min": 1985,
+    "units": 27,
+    "result": "通过"
+  },
+  {
+    "order": "O04-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 1987,
+    "end_min": 1987,
+    "units": 27,
+    "result": "签收"
+  },
+  {
+    "order": "O04-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 1980,
+    "end_min": 2013,
+    "units": 28,
+    "result": "完成"
+  },
+  {
+    "order": "O04-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2032,
+    "end_min": 2046,
+    "units": 28,
+    "result": "通过"
+  },
+  {
+    "order": "O04-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2048,
+    "end_min": 2048,
+    "units": 28,
+    "result": "签收"
+  },
+  {
+    "order": "O04-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 2085,
+    "end_min": 2108,
+    "units": 18,
+    "result": "完成"
+  },
+  {
+    "order": "O04-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2127,
+    "end_min": 2141,
+    "units": 18,
+    "result": "部分退回"
+  },
+  {
+    "order": "O04-2",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 2148,
+    "end_min": 2166,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O04-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2168,
+    "end_min": 2172,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O04-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2143,
+    "end_min": 2143,
+    "units": 16,
+    "result": "签收"
+  },
+  {
+    "order": "O04-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2175,
+    "end_min": 2175,
+    "units": 2,
+    "result": "签收"
+  },
+  {
+    "order": "O04-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 2100,
+    "end_min": 2129,
+    "units": 24,
+    "result": "完成"
+  },
+  {
+    "order": "O04-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2148,
+    "end_min": 2162,
+    "units": 24,
+    "result": "通过"
+  },
+  {
+    "order": "O04-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2164,
+    "end_min": 2164,
+    "units": 24,
+    "result": "签收"
+  },
+  {
+    "order": "O04-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 2160,
+    "end_min": 2195,
+    "units": 30,
+    "result": "完成"
+  },
+  {
+    "order": "O04-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 2228,
+    "units": 30,
+    "result": "通过"
+  },
+  {
+    "order": "O04-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2230,
+    "end_min": 2230,
+    "units": 30,
+    "result": "签收"
+  },
+  {
+    "order": "O04-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 2220,
+    "end_min": 2244,
+    "units": 19,
+    "result": "完成"
+  },
+  {
+    "order": "O04-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2263,
+    "end_min": 2277,
+    "units": 19,
+    "result": "通过"
+  },
+  {
+    "order": "O04-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2279,
+    "end_min": 2279,
+    "units": 19,
+    "result": "签收"
+  },
+  {
+    "order": "O05-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 2400,
+    "end_min": 2435,
+    "units": 30,
+    "result": "完成"
+  },
+  {
+    "order": "O05-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2438,
+    "end_min": 2452,
+    "units": 30,
+    "result": "通过"
+  },
+  {
+    "order": "O05-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2454,
+    "end_min": 2454,
+    "units": 30,
+    "result": "签收"
+  },
+  {
+    "order": "O05-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 2505,
+    "end_min": 2521,
+    "units": 11,
+    "result": "完成"
+  },
+  {
+    "order": "O05-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2524,
+    "end_min": 2538,
+    "units": 11,
+    "result": "通过"
+  },
+  {
+    "order": "O05-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2540,
+    "end_min": 2540,
+    "units": 11,
+    "result": "签收"
+  },
+  {
+    "order": "O05-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 2520,
+    "end_min": 2545,
+    "units": 20,
+    "result": "完成"
+  },
+  {
+    "order": "O05-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2548,
+    "end_min": 2562,
+    "units": 20,
+    "result": "通过"
+  },
+  {
+    "order": "O05-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2564,
+    "end_min": 2564,
+    "units": 20,
+    "result": "签收"
+  },
+  {
+    "order": "O05-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 2580,
+    "end_min": 2601,
+    "units": 16,
+    "result": "完成"
+  },
+  {
+    "order": "O05-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2604,
+    "end_min": 2618,
+    "units": 16,
+    "result": "通过"
+  },
+  {
+    "order": "O05-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2620,
+    "end_min": 2620,
+    "units": 16,
+    "result": "签收"
+  },
+  {
+    "order": "O05-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 2640,
+    "end_min": 2654,
+    "units": 9,
+    "result": "完成"
+  },
+  {
+    "order": "O05-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 2671,
+    "units": 9,
+    "result": "通过"
+  },
+  {
+    "order": "O05-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2673,
+    "end_min": 2673,
+    "units": 9,
+    "result": "签收"
+  },
+  {
+    "order": "O05-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 2700,
+    "end_min": 2725,
+    "units": 20,
+    "result": "完成"
+  },
+  {
+    "order": "O05-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2728,
+    "end_min": 2742,
+    "units": 20,
+    "result": "通过"
+  },
+  {
+    "order": "O05-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2744,
+    "end_min": 2744,
+    "units": 20,
+    "result": "签收"
+  },
+  {
+    "order": "O06-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 2925,
+    "end_min": 2947,
+    "units": 17,
+    "result": "完成"
+  },
+  {
+    "order": "O06-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2954,
+    "end_min": 2968,
+    "units": 17,
+    "result": "通过"
+  },
+  {
+    "order": "O06-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2970,
+    "end_min": 2970,
+    "units": 17,
+    "result": "签收"
+  },
+  {
+    "order": "O06-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 2940,
+    "end_min": 2975,
+    "units": 30,
+    "result": "完成"
+  },
+  {
+    "order": "O06-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 2982,
+    "end_min": 2996,
+    "units": 30,
+    "result": "通过"
+  },
+  {
+    "order": "O06-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 2998,
+    "end_min": 2998,
+    "units": 30,
+    "result": "签收"
+  },
+  {
+    "order": "O06-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 3000,
+    "end_min": 3027,
+    "units": 22,
+    "result": "完成"
+  },
+  {
+    "order": "O06-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3034,
+    "end_min": 3048,
+    "units": 22,
+    "result": "通过"
+  },
+  {
+    "order": "O06-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3050,
+    "end_min": 3050,
+    "units": 22,
+    "result": "签收"
+  },
+  {
+    "order": "O06-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 3060,
+    "end_min": 3091,
+    "units": 26,
+    "result": "完成"
+  },
+  {
+    "order": "O06-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3098,
+    "end_min": 3112,
+    "units": 26,
+    "result": "部分退回"
+  },
+  {
+    "order": "O06-3",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 3119,
+    "end_min": 3137,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O06-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3139,
+    "end_min": 3143,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O06-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3146,
+    "end_min": 3146,
+    "units": 26,
+    "result": "签收"
+  },
+  {
+    "order": "O06-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 3120,
+    "end_min": 3139,
+    "units": 14,
+    "result": "完成"
+  },
+  {
+    "order": "O06-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 3160,
+    "units": 14,
+    "result": "通过"
+  },
+  {
+    "order": "O06-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3162,
+    "end_min": 3162,
+    "units": 14,
+    "result": "签收"
+  },
+  {
+    "order": "O06-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 3180,
+    "end_min": 3209,
+    "units": 24,
+    "result": "完成"
+  },
+  {
+    "order": "O06-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3216,
+    "end_min": 3230,
+    "units": 24,
+    "result": "通过"
+  },
+  {
+    "order": "O06-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3232,
+    "end_min": 3232,
+    "units": 24,
+    "result": "签收"
+  },
+  {
+    "order": "O07-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 3360,
+    "end_min": 3383,
+    "units": 18,
+    "result": "完成"
+  },
+  {
+    "order": "O07-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3394,
+    "end_min": 3408,
+    "units": 18,
+    "result": "部分退回"
+  },
+  {
+    "order": "O07-0",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 3415,
+    "end_min": 3433,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O07-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3435,
+    "end_min": 3439,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O07-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3442,
+    "end_min": 3442,
+    "units": 18,
+    "result": "签收"
+  },
+  {
+    "order": "O07-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 3420,
+    "end_min": 3445,
+    "units": 20,
+    "result": "完成"
+  },
+  {
+    "order": "O07-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3456,
+    "end_min": 3470,
+    "units": 20,
+    "result": "通过"
+  },
+  {
+    "order": "O07-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3472,
+    "end_min": 3472,
+    "units": 20,
+    "result": "签收"
+  },
+  {
+    "order": "O07-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 3480,
+    "end_min": 3506,
+    "units": 21,
+    "result": "完成"
+  },
+  {
+    "order": "O07-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3517,
+    "end_min": 3531,
+    "units": 21,
+    "result": "通过"
+  },
+  {
+    "order": "O07-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3533,
+    "end_min": 3533,
+    "units": 21,
+    "result": "签收"
+  },
+  {
+    "order": "O07-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 3540,
+    "end_min": 3565,
+    "units": 20,
+    "result": "完成"
+  },
+  {
+    "order": "O07-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3576,
+    "end_min": 3590,
+    "units": 20,
+    "result": "通过"
+  },
+  {
+    "order": "O07-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3592,
+    "end_min": 3592,
+    "units": 20,
+    "result": "签收"
+  },
+  {
+    "order": "O07-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 3600,
+    "end_min": 3627,
+    "units": 22,
+    "result": "完成"
+  },
+  {
+    "order": "O07-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 3652,
+    "units": 22,
+    "result": "通过"
+  },
+  {
+    "order": "O07-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3654,
+    "end_min": 3654,
+    "units": 22,
+    "result": "签收"
+  },
+  {
+    "order": "O07-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 3705,
+    "end_min": 3736,
+    "units": 26,
+    "result": "完成"
+  },
+  {
+    "order": "O07-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3747,
+    "end_min": 3761,
+    "units": 26,
+    "result": "通过"
+  },
+  {
+    "order": "O07-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3763,
+    "end_min": 3763,
+    "units": 26,
+    "result": "签收"
+  },
+  {
+    "order": "O08-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 3840,
+    "end_min": 3872,
+    "units": 27,
+    "result": "完成"
+  },
+  {
+    "order": "O08-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3887,
+    "end_min": 3901,
+    "units": 27,
+    "result": "通过"
+  },
+  {
+    "order": "O08-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3903,
+    "end_min": 3903,
+    "units": 27,
+    "result": "签收"
+  },
+  {
+    "order": "O08-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 3900,
+    "end_min": 3931,
+    "units": 26,
+    "result": "完成"
+  },
+  {
+    "order": "O08-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 3946,
+    "end_min": 3960,
+    "units": 26,
+    "result": "通过"
+  },
+  {
+    "order": "O08-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 3962,
+    "end_min": 3962,
+    "units": 26,
+    "result": "签收"
+  },
+  {
+    "order": "O08-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 3960,
+    "end_min": 3989,
+    "units": 24,
+    "result": "完成"
+  },
+  {
+    "order": "O08-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4004,
+    "end_min": 4018,
+    "units": 24,
+    "result": "通过"
+  },
+  {
+    "order": "O08-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4020,
+    "end_min": 4020,
+    "units": 24,
+    "result": "签收"
+  },
+  {
+    "order": "O08-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 4020,
+    "end_min": 4049,
+    "units": 24,
+    "result": "完成"
+  },
+  {
+    "order": "O08-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4064,
+    "end_min": 4078,
+    "units": 24,
+    "result": "通过"
+  },
+  {
+    "order": "O08-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4080,
+    "end_min": 4080,
+    "units": 24,
+    "result": "签收"
+  },
+  {
+    "order": "O08-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 4125,
+    "end_min": 4142,
+    "units": 12,
+    "result": "完成"
+  },
+  {
+    "order": "O08-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 4171,
+    "units": 12,
+    "result": "部分退回"
+  },
+  {
+    "order": "O08-4",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 4178,
+    "end_min": 4196,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O08-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4198,
+    "end_min": 4202,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O08-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4173,
+    "end_min": 4173,
+    "units": 10,
+    "result": "签收"
+  },
+  {
+    "order": "O08-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4205,
+    "end_min": 4205,
+    "units": 2,
+    "result": "签收"
+  },
+  {
+    "order": "O08-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 4140,
+    "end_min": 4164,
+    "units": 19,
+    "result": "完成"
+  },
+  {
+    "order": "O08-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4179,
+    "end_min": 4193,
+    "units": 19,
+    "result": "通过"
+  },
+  {
+    "order": "O08-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4195,
+    "end_min": 4195,
+    "units": 19,
+    "result": "签收"
+  },
+  {
+    "order": "O09-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 4320,
+    "end_min": 4341,
+    "units": 16,
+    "result": "完成"
+  },
+  {
+    "order": "O09-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4360,
+    "end_min": 4374,
+    "units": 16,
+    "result": "通过"
+  },
+  {
+    "order": "O09-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4376,
+    "end_min": 4376,
+    "units": 16,
+    "result": "签收"
+  },
+  {
+    "order": "O09-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 4380,
+    "end_min": 4414,
+    "units": 29,
+    "result": "完成"
+  },
+  {
+    "order": "O09-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4433,
+    "end_min": 4447,
+    "units": 29,
+    "result": "部分退回"
+  },
+  {
+    "order": "O09-1",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 4454,
+    "end_min": 4472,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O09-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4474,
+    "end_min": 4478,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O09-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4481,
+    "end_min": 4481,
+    "units": 29,
+    "result": "签收"
+  },
+  {
+    "order": "O09-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 4440,
+    "end_min": 4454,
+    "units": 9,
+    "result": "完成"
+  },
+  {
+    "order": "O09-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4473,
+    "end_min": 4487,
+    "units": 9,
+    "result": "通过"
+  },
+  {
+    "order": "O09-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4489,
+    "end_min": 4489,
+    "units": 9,
+    "result": "签收"
+  },
+  {
+    "order": "O09-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 4545,
+    "end_min": 4562,
+    "units": 12,
+    "result": "完成"
+  },
+  {
+    "order": "O09-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4581,
+    "end_min": 4595,
+    "units": 12,
+    "result": "通过"
+  },
+  {
+    "order": "O09-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4597,
+    "end_min": 4597,
+    "units": 12,
+    "result": "签收"
+  },
+  {
+    "order": "O09-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 4560,
+    "end_min": 4586,
+    "units": 21,
+    "result": "完成"
+  },
+  {
+    "order": "O09-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 4619,
+    "units": 21,
+    "result": "通过"
+  },
+  {
+    "order": "O09-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4621,
+    "end_min": 4621,
+    "units": 21,
+    "result": "签收"
+  },
+  {
+    "order": "O09-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 4620,
+    "end_min": 4647,
+    "units": 22,
+    "result": "完成"
+  },
+  {
+    "order": "O09-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4666,
+    "end_min": 4680,
+    "units": 22,
+    "result": "通过"
+  },
+  {
+    "order": "O09-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4682,
+    "end_min": 4682,
+    "units": 22,
+    "result": "签收"
+  },
+  {
+    "order": "O10-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 4800,
+    "end_min": 4817,
+    "units": 12,
+    "result": "完成"
+  },
+  {
+    "order": "O10-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4820,
+    "end_min": 4834,
+    "units": 12,
+    "result": "通过"
+  },
+  {
+    "order": "O10-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4836,
+    "end_min": 4836,
+    "units": 12,
+    "result": "签收"
+  },
+  {
+    "order": "O10-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 4860,
+    "end_min": 4874,
+    "units": 9,
+    "result": "完成"
+  },
+  {
+    "order": "O10-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4877,
+    "end_min": 4891,
+    "units": 9,
+    "result": "通过"
+  },
+  {
+    "order": "O10-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 4893,
+    "end_min": 4893,
+    "units": 9,
+    "result": "签收"
+  },
+  {
+    "order": "O10-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 4965,
+    "end_min": 4997,
+    "units": 27,
+    "result": "完成"
+  },
+  {
+    "order": "O10-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5000,
+    "end_min": 5014,
+    "units": 27,
+    "result": "通过"
+  },
+  {
+    "order": "O10-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5016,
+    "end_min": 5016,
+    "units": 27,
+    "result": "签收"
+  },
+  {
+    "order": "O10-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 4980,
+    "end_min": 4993,
+    "units": 8,
+    "result": "完成"
+  },
+  {
+    "order": "O10-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 4996,
+    "end_min": 5010,
+    "units": 8,
+    "result": "通过"
+  },
+  {
+    "order": "O10-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5012,
+    "end_min": 5012,
+    "units": 8,
+    "result": "签收"
+  },
+  {
+    "order": "O10-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 5040,
+    "end_min": 5058,
+    "units": 13,
+    "result": "完成"
+  },
+  {
+    "order": "O10-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 5075,
+    "units": 13,
+    "result": "通过"
+  },
+  {
+    "order": "O10-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5077,
+    "end_min": 5077,
+    "units": 13,
+    "result": "签收"
+  },
+  {
+    "order": "O10-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 5100,
+    "end_min": 5128,
+    "units": 23,
+    "result": "完成"
+  },
+  {
+    "order": "O10-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5131,
+    "end_min": 5145,
+    "units": 23,
+    "result": "部分退回"
+  },
+  {
+    "order": "O10-5",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 5152,
+    "end_min": 5170,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O10-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5172,
+    "end_min": 5176,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O10-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5179,
+    "end_min": 5179,
+    "units": 23,
+    "result": "签收"
+  },
+  {
+    "order": "O11-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 5280,
+    "end_min": 5302,
+    "units": 17,
+    "result": "完成"
+  },
+  {
+    "order": "O11-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5309,
+    "end_min": 5323,
+    "units": 17,
+    "result": "通过"
+  },
+  {
+    "order": "O11-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5325,
+    "end_min": 5325,
+    "units": 17,
+    "result": "签收"
+  },
+  {
+    "order": "O11-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 5385,
+    "end_min": 5405,
+    "units": 15,
+    "result": "完成"
+  },
+  {
+    "order": "O11-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5412,
+    "end_min": 5426,
+    "units": 15,
+    "result": "通过"
+  },
+  {
+    "order": "O11-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5428,
+    "end_min": 5428,
+    "units": 15,
+    "result": "签收"
+  },
+  {
+    "order": "O11-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 5400,
+    "end_min": 5415,
+    "units": 10,
+    "result": "完成"
+  },
+  {
+    "order": "O11-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5422,
+    "end_min": 5436,
+    "units": 10,
+    "result": "部分退回"
+  },
+  {
+    "order": "O11-2",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 5443,
+    "end_min": 5461,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O11-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5463,
+    "end_min": 5467,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O11-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5470,
+    "end_min": 5470,
+    "units": 10,
+    "result": "签收"
+  },
+  {
+    "order": "O11-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 5460,
+    "end_min": 5484,
+    "units": 19,
+    "result": "完成"
+  },
+  {
+    "order": "O11-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5491,
+    "end_min": 5505,
+    "units": 19,
+    "result": "通过"
+  },
+  {
+    "order": "O11-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5507,
+    "end_min": 5507,
+    "units": 19,
+    "result": "签收"
+  },
+  {
+    "order": "O11-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 5520,
+    "end_min": 5541,
+    "units": 16,
+    "result": "完成"
+  },
+  {
+    "order": "O11-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 5562,
+    "units": 16,
+    "result": "通过"
+  },
+  {
+    "order": "O11-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5564,
+    "end_min": 5564,
+    "units": 16,
+    "result": "签收"
+  },
+  {
+    "order": "O11-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 5580,
+    "end_min": 5606,
+    "units": 21,
+    "result": "完成"
+  },
+  {
+    "order": "O11-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5613,
+    "end_min": 5627,
+    "units": 21,
+    "result": "通过"
+  },
+  {
+    "order": "O11-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5629,
+    "end_min": 5629,
+    "units": 21,
+    "result": "签收"
+  },
+  {
+    "order": "O12-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 5805,
+    "end_min": 5823,
+    "units": 13,
+    "result": "完成"
+  },
+  {
+    "order": "O12-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5834,
+    "end_min": 5848,
+    "units": 13,
+    "result": "通过"
+  },
+  {
+    "order": "O12-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5850,
+    "end_min": 5850,
+    "units": 13,
+    "result": "签收"
+  },
+  {
+    "order": "O12-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 5820,
+    "end_min": 5837,
+    "units": 12,
+    "result": "完成"
+  },
+  {
+    "order": "O12-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5848,
+    "end_min": 5862,
+    "units": 12,
+    "result": "通过"
+  },
+  {
+    "order": "O12-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5864,
+    "end_min": 5864,
+    "units": 12,
+    "result": "签收"
+  },
+  {
+    "order": "O12-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 5880,
+    "end_min": 5893,
+    "units": 8,
+    "result": "完成"
+  },
+  {
+    "order": "O12-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5904,
+    "end_min": 5918,
+    "units": 8,
+    "result": "通过"
+  },
+  {
+    "order": "O12-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5920,
+    "end_min": 5920,
+    "units": 8,
+    "result": "签收"
+  },
+  {
+    "order": "O12-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 5940,
+    "end_min": 5970,
+    "units": 25,
+    "result": "完成"
+  },
+  {
+    "order": "O12-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 5981,
+    "end_min": 5995,
+    "units": 25,
+    "result": "通过"
+  },
+  {
+    "order": "O12-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 5997,
+    "end_min": 5997,
+    "units": 25,
+    "result": "签收"
+  },
+  {
+    "order": "O12-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 6000,
+    "end_min": 6030,
+    "units": 25,
+    "result": "完成"
+  },
+  {
+    "order": "O12-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 6055,
+    "units": 25,
+    "result": "通过"
+  },
+  {
+    "order": "O12-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6057,
+    "end_min": 6057,
+    "units": 25,
+    "result": "签收"
+  },
+  {
+    "order": "O12-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 6060,
+    "end_min": 6077,
+    "units": 12,
+    "result": "完成"
+  },
+  {
+    "order": "O12-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6088,
+    "end_min": 6102,
+    "units": 12,
+    "result": "通过"
+  },
+  {
+    "order": "O12-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6104,
+    "end_min": 6104,
+    "units": 12,
+    "result": "签收"
+  },
+  {
+    "order": "O13-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 6240,
+    "end_min": 6274,
+    "units": 29,
+    "result": "完成"
+  },
+  {
+    "order": "O13-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6289,
+    "end_min": 6303,
+    "units": 29,
+    "result": "通过"
+  },
+  {
+    "order": "O13-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6305,
+    "end_min": 6305,
+    "units": 29,
+    "result": "签收"
+  },
+  {
+    "order": "O13-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 6300,
+    "end_min": 6334,
+    "units": 29,
+    "result": "完成"
+  },
+  {
+    "order": "O13-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6349,
+    "end_min": 6363,
+    "units": 29,
+    "result": "通过"
+  },
+  {
+    "order": "O13-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6365,
+    "end_min": 6365,
+    "units": 29,
+    "result": "签收"
+  },
+  {
+    "order": "O13-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 6360,
+    "end_min": 6395,
+    "units": 30,
+    "result": "完成"
+  },
+  {
+    "order": "O13-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6410,
+    "end_min": 6424,
+    "units": 30,
+    "result": "通过"
+  },
+  {
+    "order": "O13-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6426,
+    "end_min": 6426,
+    "units": 30,
+    "result": "签收"
+  },
+  {
+    "order": "O13-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 6420,
+    "end_min": 6442,
+    "units": 17,
+    "result": "完成"
+  },
+  {
+    "order": "O13-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6457,
+    "end_min": 6471,
+    "units": 17,
+    "result": "部分退回"
+  },
+  {
+    "order": "O13-3",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 6478,
+    "end_min": 6496,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O13-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6498,
+    "end_min": 6502,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O13-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6505,
+    "end_min": 6505,
+    "units": 17,
+    "result": "签收"
+  },
+  {
+    "order": "O13-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 6480,
+    "end_min": 6513,
+    "units": 28,
+    "result": "完成"
+  },
+  {
+    "order": "O13-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 6542,
+    "units": 28,
+    "result": "通过"
+  },
+  {
+    "order": "O13-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6544,
+    "end_min": 6544,
+    "units": 28,
+    "result": "签收"
+  },
+  {
+    "order": "O13-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 6585,
+    "end_min": 6600,
+    "units": 10,
+    "result": "完成"
+  },
+  {
+    "order": "O13-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6615,
+    "end_min": 6629,
+    "units": 10,
+    "result": "通过"
+  },
+  {
+    "order": "O13-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6631,
+    "end_min": 6631,
+    "units": 10,
+    "result": "签收"
+  },
+  {
+    "order": "O14-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 6720,
+    "end_min": 6752,
+    "units": 27,
+    "result": "完成"
+  },
+  {
+    "order": "O14-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6771,
+    "end_min": 6785,
+    "units": 27,
+    "result": "部分退回"
+  },
+  {
+    "order": "O14-0",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 6792,
+    "end_min": 6810,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O14-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6812,
+    "end_min": 6816,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O14-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6819,
+    "end_min": 6819,
+    "units": 27,
+    "result": "签收"
+  },
+  {
+    "order": "O14-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 6780,
+    "end_min": 6805,
+    "units": 20,
+    "result": "完成"
+  },
+  {
+    "order": "O14-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6824,
+    "end_min": 6838,
+    "units": 20,
+    "result": "通过"
+  },
+  {
+    "order": "O14-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6840,
+    "end_min": 6840,
+    "units": 20,
+    "result": "签收"
+  },
+  {
+    "order": "O14-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 6840,
+    "end_min": 6871,
+    "units": 26,
+    "result": "完成"
+  },
+  {
+    "order": "O14-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6890,
+    "end_min": 6904,
+    "units": 26,
+    "result": "通过"
+  },
+  {
+    "order": "O14-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6906,
+    "end_min": 6906,
+    "units": 26,
+    "result": "签收"
+  },
+  {
+    "order": "O14-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 6900,
+    "end_min": 6934,
+    "units": 29,
+    "result": "完成"
+  },
+  {
+    "order": "O14-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 6953,
+    "end_min": 6967,
+    "units": 29,
+    "result": "通过"
+  },
+  {
+    "order": "O14-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 6969,
+    "end_min": 6969,
+    "units": 29,
+    "result": "签收"
+  },
+  {
+    "order": "O14-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 7005,
+    "end_min": 7037,
+    "units": 27,
+    "result": "完成"
+  },
+  {
+    "order": "O14-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 7070,
+    "units": 27,
+    "result": "通过"
+  },
+  {
+    "order": "O14-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7072,
+    "end_min": 7072,
+    "units": 27,
+    "result": "签收"
+  },
+  {
+    "order": "O14-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 7020,
+    "end_min": 7051,
+    "units": 26,
+    "result": "完成"
+  },
+  {
+    "order": "O14-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7070,
+    "end_min": 7084,
+    "units": 26,
+    "result": "通过"
+  },
+  {
+    "order": "O14-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7086,
+    "end_min": 7086,
+    "units": 26,
+    "result": "签收"
+  },
+  {
+    "order": "O15-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 7200,
+    "end_min": 7216,
+    "units": 11,
+    "result": "完成"
+  },
+  {
+    "order": "O15-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7219,
+    "end_min": 7233,
+    "units": 11,
+    "result": "通过"
+  },
+  {
+    "order": "O15-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7235,
+    "end_min": 7235,
+    "units": 11,
+    "result": "签收"
+  },
+  {
+    "order": "O15-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 7260,
+    "end_min": 7283,
+    "units": 18,
+    "result": "完成"
+  },
+  {
+    "order": "O15-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7286,
+    "end_min": 7300,
+    "units": 18,
+    "result": "通过"
+  },
+  {
+    "order": "O15-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7302,
+    "end_min": 7302,
+    "units": 18,
+    "result": "签收"
+  },
+  {
+    "order": "O15-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 7320,
+    "end_min": 7349,
+    "units": 24,
+    "result": "完成"
+  },
+  {
+    "order": "O15-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7352,
+    "end_min": 7366,
+    "units": 24,
+    "result": "通过"
+  },
+  {
+    "order": "O15-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7368,
+    "end_min": 7368,
+    "units": 24,
+    "result": "签收"
+  },
+  {
+    "order": "O15-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 7425,
+    "end_min": 7441,
+    "units": 11,
+    "result": "完成"
+  },
+  {
+    "order": "O15-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7444,
+    "end_min": 7458,
+    "units": 11,
+    "result": "通过"
+  },
+  {
+    "order": "O15-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7460,
+    "end_min": 7460,
+    "units": 11,
+    "result": "签收"
+  },
+  {
+    "order": "O15-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 7440,
+    "end_min": 7459,
+    "units": 14,
+    "result": "完成"
+  },
+  {
+    "order": "O15-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 7476,
+    "units": 14,
+    "result": "部分退回"
+  },
+  {
+    "order": "O15-4",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 7483,
+    "end_min": 7501,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O15-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7503,
+    "end_min": 7507,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O15-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7510,
+    "end_min": 7510,
+    "units": 14,
+    "result": "签收"
+  },
+  {
+    "order": "O15-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 7500,
+    "end_min": 7519,
+    "units": 14,
+    "result": "完成"
+  },
+  {
+    "order": "O15-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7522,
+    "end_min": 7536,
+    "units": 14,
+    "result": "通过"
+  },
+  {
+    "order": "O15-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7538,
+    "end_min": 7538,
+    "units": 14,
+    "result": "签收"
+  },
+  {
+    "order": "O16-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 7680,
+    "end_min": 7705,
+    "units": 20,
+    "result": "完成"
+  },
+  {
+    "order": "O16-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7712,
+    "end_min": 7726,
+    "units": 20,
+    "result": "通过"
+  },
+  {
+    "order": "O16-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7728,
+    "end_min": 7728,
+    "units": 20,
+    "result": "签收"
+  },
+  {
+    "order": "O16-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 7740,
+    "end_min": 7755,
+    "units": 10,
+    "result": "完成"
+  },
+  {
+    "order": "O16-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7762,
+    "end_min": 7776,
+    "units": 10,
+    "result": "部分退回"
+  },
+  {
+    "order": "O16-1",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 7783,
+    "end_min": 7801,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O16-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7803,
+    "end_min": 7807,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O16-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7810,
+    "end_min": 7810,
+    "units": 10,
+    "result": "签收"
+  },
+  {
+    "order": "O16-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 7845,
+    "end_min": 7879,
+    "units": 29,
+    "result": "完成"
+  },
+  {
+    "order": "O16-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7886,
+    "end_min": 7900,
+    "units": 29,
+    "result": "通过"
+  },
+  {
+    "order": "O16-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7902,
+    "end_min": 7902,
+    "units": 29,
+    "result": "签收"
+  },
+  {
+    "order": "O16-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 7860,
+    "end_min": 7885,
+    "units": 20,
+    "result": "完成"
+  },
+  {
+    "order": "O16-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 7892,
+    "end_min": 7906,
+    "units": 20,
+    "result": "通过"
+  },
+  {
+    "order": "O16-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7908,
+    "end_min": 7908,
+    "units": 20,
+    "result": "签收"
+  },
+  {
+    "order": "O16-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 7920,
+    "end_min": 7943,
+    "units": 18,
+    "result": "完成"
+  },
+  {
+    "order": "O16-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 7964,
+    "units": 18,
+    "result": "通过"
+  },
+  {
+    "order": "O16-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 7966,
+    "end_min": 7966,
+    "units": 18,
+    "result": "签收"
+  },
+  {
+    "order": "O16-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 7980,
+    "end_min": 8013,
+    "units": 28,
+    "result": "完成"
+  },
+  {
+    "order": "O16-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8020,
+    "end_min": 8034,
+    "units": 28,
+    "result": "通过"
+  },
+  {
+    "order": "O16-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8036,
+    "end_min": 8036,
+    "units": 28,
+    "result": "签收"
+  },
+  {
+    "order": "O17-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 8160,
+    "end_min": 8178,
+    "units": 13,
+    "result": "完成"
+  },
+  {
+    "order": "O17-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8189,
+    "end_min": 8203,
+    "units": 13,
+    "result": "通过"
+  },
+  {
+    "order": "O17-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8205,
+    "end_min": 8205,
+    "units": 13,
+    "result": "签收"
+  },
+  {
+    "order": "O17-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 8265,
+    "end_min": 8283,
+    "units": 13,
+    "result": "完成"
+  },
+  {
+    "order": "O17-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8294,
+    "end_min": 8308,
+    "units": 13,
+    "result": "通过"
+  },
+  {
+    "order": "O17-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8310,
+    "end_min": 8310,
+    "units": 13,
+    "result": "签收"
+  },
+  {
+    "order": "O17-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 8280,
+    "end_min": 8315,
+    "units": 30,
+    "result": "完成"
+  },
+  {
+    "order": "O17-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8326,
+    "end_min": 8340,
+    "units": 30,
+    "result": "通过"
+  },
+  {
+    "order": "O17-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8342,
+    "end_min": 8342,
+    "units": 30,
+    "result": "签收"
+  },
+  {
+    "order": "O17-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 8340,
+    "end_min": 8362,
+    "units": 17,
+    "result": "完成"
+  },
+  {
+    "order": "O17-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8373,
+    "end_min": 8387,
+    "units": 17,
+    "result": "通过"
+  },
+  {
+    "order": "O17-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8389,
+    "end_min": 8389,
+    "units": 17,
+    "result": "签收"
+  },
+  {
+    "order": "O17-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 8400,
+    "end_min": 8433,
+    "units": 28,
+    "result": "完成"
+  },
+  {
+    "order": "O17-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 8458,
+    "units": 28,
+    "result": "通过"
+  },
+  {
+    "order": "O17-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8460,
+    "end_min": 8460,
+    "units": 28,
+    "result": "签收"
+  },
+  {
+    "order": "O17-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 8460,
+    "end_min": 8492,
+    "units": 27,
+    "result": "完成"
+  },
+  {
+    "order": "O17-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8503,
+    "end_min": 8517,
+    "units": 27,
+    "result": "部分退回"
+  },
+  {
+    "order": "O17-5",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 8524,
+    "end_min": 8542,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O17-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8544,
+    "end_min": 8548,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O17-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8551,
+    "end_min": 8551,
+    "units": 27,
+    "result": "签收"
+  },
+  {
+    "order": "O18-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 8685,
+    "end_min": 8712,
+    "units": 22,
+    "result": "完成"
+  },
+  {
+    "order": "O18-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8727,
+    "end_min": 8741,
+    "units": 22,
+    "result": "通过"
+  },
+  {
+    "order": "O18-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8743,
+    "end_min": 8743,
+    "units": 22,
+    "result": "签收"
+  },
+  {
+    "order": "O18-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 8700,
+    "end_min": 8733,
+    "units": 28,
+    "result": "完成"
+  },
+  {
+    "order": "O18-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8748,
+    "end_min": 8762,
+    "units": 28,
+    "result": "通过"
+  },
+  {
+    "order": "O18-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8764,
+    "end_min": 8764,
+    "units": 28,
+    "result": "签收"
+  },
+  {
+    "order": "O18-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 8760,
+    "end_min": 8792,
+    "units": 27,
+    "result": "完成"
+  },
+  {
+    "order": "O18-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8807,
+    "end_min": 8821,
+    "units": 27,
+    "result": "部分退回"
+  },
+  {
+    "order": "O18-2",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 8828,
+    "end_min": 8846,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O18-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8848,
+    "end_min": 8852,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O18-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8855,
+    "end_min": 8855,
+    "units": 27,
+    "result": "签收"
+  },
+  {
+    "order": "O18-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 8820,
+    "end_min": 8854,
+    "units": 29,
+    "result": "完成"
+  },
+  {
+    "order": "O18-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8869,
+    "end_min": 8883,
+    "units": 29,
+    "result": "通过"
+  },
+  {
+    "order": "O18-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8885,
+    "end_min": 8885,
+    "units": 29,
+    "result": "签收"
+  },
+  {
+    "order": "O18-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 8880,
+    "end_min": 8908,
+    "units": 23,
+    "result": "完成"
+  },
+  {
+    "order": "O18-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 8937,
+    "units": 23,
+    "result": "通过"
+  },
+  {
+    "order": "O18-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 8939,
+    "end_min": 8939,
+    "units": 23,
+    "result": "签收"
+  },
+  {
+    "order": "O18-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 8940,
+    "end_min": 8969,
+    "units": 24,
+    "result": "完成"
+  },
+  {
+    "order": "O18-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 8984,
+    "end_min": 8998,
+    "units": 24,
+    "result": "通过"
+  },
+  {
+    "order": "O18-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9000,
+    "end_min": 9000,
+    "units": 24,
+    "result": "签收"
+  },
+  {
+    "order": "O19-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 9120,
+    "end_min": 9149,
+    "units": 24,
+    "result": "完成"
+  },
+  {
+    "order": "O19-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 9168,
+    "end_min": 9182,
+    "units": 24,
+    "result": "通过"
+  },
+  {
+    "order": "O19-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9184,
+    "end_min": 9184,
+    "units": 24,
+    "result": "签收"
+  },
+  {
+    "order": "O19-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 9180,
+    "end_min": 9205,
+    "units": 20,
+    "result": "完成"
+  },
+  {
+    "order": "O19-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 9224,
+    "end_min": 9238,
+    "units": 20,
+    "result": "通过"
+  },
+  {
+    "order": "O19-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9240,
+    "end_min": 9240,
+    "units": 20,
+    "result": "签收"
+  },
+  {
+    "order": "O19-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 9240,
+    "end_min": 9271,
+    "units": 26,
+    "result": "完成"
+  },
+  {
+    "order": "O19-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 9290,
+    "end_min": 9304,
+    "units": 26,
+    "result": "通过"
+  },
+  {
+    "order": "O19-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9306,
+    "end_min": 9306,
+    "units": 26,
+    "result": "签收"
+  },
+  {
+    "order": "O19-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 9300,
+    "end_min": 9333,
+    "units": 28,
+    "result": "完成"
+  },
+  {
+    "order": "O19-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 9352,
+    "end_min": 9366,
+    "units": 28,
+    "result": "通过"
+  },
+  {
+    "order": "O19-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9368,
+    "end_min": 9368,
+    "units": 28,
+    "result": "签收"
+  },
+  {
+    "order": "O19-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 9360,
+    "end_min": 9392,
+    "units": 27,
+    "result": "完成"
+  },
+  {
+    "order": "O19-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 9425,
+    "units": 27,
+    "result": "通过"
+  },
+  {
+    "order": "O19-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9427,
+    "end_min": 9427,
+    "units": 27,
+    "result": "签收"
+  },
+  {
+    "order": "O19-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 9465,
+    "end_min": 9487,
+    "units": 17,
+    "result": "完成"
+  },
+  {
+    "order": "O19-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 9506,
+    "end_min": 9520,
+    "units": 17,
+    "result": "通过"
+  },
+  {
+    "order": "O19-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9522,
+    "end_min": 9522,
+    "units": 17,
+    "result": "签收"
+  },
+  {
+    "order": "O20-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 9600,
+    "end_min": 9626,
+    "units": 21,
+    "result": "完成"
+  },
+  {
+    "order": "O20-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 9629,
+    "end_min": 9643,
+    "units": 21,
+    "result": "通过"
+  },
+  {
+    "order": "O20-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9645,
+    "end_min": 9645,
+    "units": 21,
+    "result": "签收"
+  },
+  {
+    "order": "O20-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 9660,
+    "end_min": 9687,
+    "units": 22,
+    "result": "完成"
+  },
+  {
+    "order": "O20-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 9690,
+    "end_min": 9704,
+    "units": 22,
+    "result": "通过"
+  },
+  {
+    "order": "O20-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9706,
+    "end_min": 9706,
+    "units": 22,
+    "result": "签收"
+  },
+  {
+    "order": "O20-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 9720,
+    "end_min": 9734,
+    "units": 9,
+    "result": "完成"
+  },
+  {
+    "order": "O20-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 9737,
+    "end_min": 9751,
+    "units": 9,
+    "result": "通过"
+  },
+  {
+    "order": "O20-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9753,
+    "end_min": 9753,
+    "units": 9,
+    "result": "签收"
+  },
+  {
+    "order": "O20-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 9780,
+    "end_min": 9793,
+    "units": 8,
+    "result": "完成"
+  },
+  {
+    "order": "O20-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 9796,
+    "end_min": 9810,
+    "units": 8,
+    "result": "部分退回"
+  },
+  {
+    "order": "O20-3",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 9817,
+    "end_min": 9835,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O20-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 9837,
+    "end_min": 9841,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O20-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9844,
+    "end_min": 9844,
+    "units": 8,
+    "result": "签收"
+  },
+  {
+    "order": "O20-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 9885,
+    "end_min": 9902,
+    "units": 12,
+    "result": "完成"
+  },
+  {
+    "order": "O20-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 9919,
+    "units": 12,
+    "result": "通过"
+  },
+  {
+    "order": "O20-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9921,
+    "end_min": 9921,
+    "units": 12,
+    "result": "签收"
+  },
+  {
+    "order": "O20-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 9900,
+    "end_min": 9919,
+    "units": 14,
+    "result": "完成"
+  },
+  {
+    "order": "O20-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 9922,
+    "end_min": 9936,
+    "units": 14,
+    "result": "通过"
+  },
+  {
+    "order": "O20-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 9938,
+    "end_min": 9938,
+    "units": 14,
+    "result": "签收"
+  },
+  {
+    "order": "O21-0",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 10080,
+    "end_min": 10106,
+    "units": 21,
+    "result": "完成"
+  },
+  {
+    "order": "O21-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 10113,
+    "end_min": 10127,
+    "units": 21,
+    "result": "部分退回"
+  },
+  {
+    "order": "O21-0",
+    "event": "返工",
+    "resource": "RW",
+    "start_min": 10134,
+    "end_min": 10152,
+    "units": 2,
+    "result": "完成"
+  },
+  {
+    "order": "O21-0",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 10154,
+    "end_min": 10158,
+    "units": 2,
+    "result": "通过"
+  },
+  {
+    "order": "O21-0",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 10161,
+    "end_min": 10161,
+    "units": 21,
+    "result": "签收"
+  },
+  {
+    "order": "O21-1",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 10140,
+    "end_min": 10172,
+    "units": 27,
+    "result": "完成"
+  },
+  {
+    "order": "O21-1",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 10179,
+    "end_min": 10193,
+    "units": 27,
+    "result": "通过"
+  },
+  {
+    "order": "O21-1",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 10195,
+    "end_min": 10195,
+    "units": 27,
+    "result": "签收"
+  },
+  {
+    "order": "O21-2",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 10200,
+    "end_min": 10234,
+    "units": 29,
+    "result": "完成"
+  },
+  {
+    "order": "O21-2",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 10241,
+    "end_min": 10255,
+    "units": 29,
+    "result": "通过"
+  },
+  {
+    "order": "O21-2",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 10257,
+    "end_min": 10257,
+    "units": 29,
+    "result": "签收"
+  },
+  {
+    "order": "O21-3",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 10305,
+    "end_min": 10330,
+    "units": 20,
+    "result": "完成"
+  },
+  {
+    "order": "O21-3",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 10337,
+    "end_min": 10351,
+    "units": 20,
+    "result": "通过"
+  },
+  {
+    "order": "O21-3",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 10353,
+    "end_min": 10353,
+    "units": 20,
+    "result": "签收"
+  },
+  {
+    "order": "O21-4",
+    "event": "装配",
+    "resource": "L1",
+    "start_min": 10320,
+    "end_min": 10346,
+    "units": 21,
+    "result": "完成"
+  },
+  {
+    "order": "O21-4",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": null,
+    "end_min": 10367,
+    "units": 21,
+    "result": "通过"
+  },
+  {
+    "order": "O21-4",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 10369,
+    "end_min": 10369,
+    "units": 21,
+    "result": "签收"
+  },
+  {
+    "order": "O21-5",
+    "event": "装配",
+    "resource": "L2",
+    "start_min": 10380,
+    "end_min": 10401,
+    "units": 16,
+    "result": "完成"
+  },
+  {
+    "order": "O21-5",
+    "event": "复验",
+    "resource": "QA",
+    "start_min": 10408,
+    "end_min": 10422,
+    "units": 16,
+    "result": "通过"
+  },
+  {
+    "order": "O21-5",
+    "event": "成品交付",
+    "resource": "OUT",
+    "start_min": 10424,
+    "end_min": 10424,
+    "units": 16,
+    "result": "签收"
+  }
+]

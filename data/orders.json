@@ -1,0 +1,1322 @@
+[
+  {
+    "order": "O00-0",
+    "line": "L1",
+    "product": "厚板",
+    "units": 13,
+    "available_min": 0,
+    "due_min": 36,
+    "priority": true,
+    "allow_partial": true
+  },
+  {
+    "order": "O00-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 19,
+    "available_min": 60,
+    "due_min": 96,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O00-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 20,
+    "available_min": 120,
+    "due_min": 156,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O00-3",
+    "line": "L2",
+    "product": "厚板",
+    "units": 28,
+    "available_min": 180,
+    "due_min": 216,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O00-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 12,
+    "available_min": 240,
+    "due_min": 276,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O00-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 8,
+    "available_min": 300,
+    "due_min": 336,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O01-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 12,
+    "available_min": 480,
+    "due_min": 525,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O01-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 15,
+    "available_min": 540,
+    "due_min": 585,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O01-2",
+    "line": "L1",
+    "product": "厚板",
+    "units": 24,
+    "available_min": 600,
+    "due_min": 645,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O01-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 12,
+    "available_min": 660,
+    "due_min": 705,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O01-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 28,
+    "available_min": 720,
+    "due_min": 765,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O01-5",
+    "line": "L2",
+    "product": "厚板",
+    "units": 15,
+    "available_min": 780,
+    "due_min": 825,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O02-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 8,
+    "available_min": 960,
+    "due_min": 1014,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O02-1",
+    "line": "L2",
+    "product": "厚板",
+    "units": 21,
+    "available_min": 1020,
+    "due_min": 1074,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O02-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 23,
+    "available_min": 1080,
+    "due_min": 1134,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O02-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 11,
+    "available_min": 1140,
+    "due_min": 1194,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O02-4",
+    "line": "L1",
+    "product": "厚板",
+    "units": 26,
+    "available_min": 1200,
+    "due_min": 1254,
+    "priority": true,
+    "allow_partial": true
+  },
+  {
+    "order": "O02-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 21,
+    "available_min": 1260,
+    "due_min": 1314,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O03-0",
+    "line": "L1",
+    "product": "厚板",
+    "units": 25,
+    "available_min": 1440,
+    "due_min": 1503,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O03-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 11,
+    "available_min": 1500,
+    "due_min": 1563,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O03-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 9,
+    "available_min": 1560,
+    "due_min": 1623,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O03-3",
+    "line": "L2",
+    "product": "厚板",
+    "units": 28,
+    "available_min": 1620,
+    "due_min": 1683,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O03-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 10,
+    "available_min": 1680,
+    "due_min": 1743,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O03-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 13,
+    "available_min": 1740,
+    "due_min": 1803,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O04-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 27,
+    "available_min": 1920,
+    "due_min": 1992,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O04-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 28,
+    "available_min": 1980,
+    "due_min": 2052,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O04-2",
+    "line": "L1",
+    "product": "厚板",
+    "units": 18,
+    "available_min": 2040,
+    "due_min": 2112,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O04-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 24,
+    "available_min": 2100,
+    "due_min": 2172,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O04-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 30,
+    "available_min": 2160,
+    "due_min": 2232,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O04-5",
+    "line": "L2",
+    "product": "厚板",
+    "units": 19,
+    "available_min": 2220,
+    "due_min": 2292,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O05-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 30,
+    "available_min": 2400,
+    "due_min": 2436,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O05-1",
+    "line": "L2",
+    "product": "厚板",
+    "units": 11,
+    "available_min": 2460,
+    "due_min": 2496,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O05-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 20,
+    "available_min": 2520,
+    "due_min": 2556,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O05-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 16,
+    "available_min": 2580,
+    "due_min": 2616,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O05-4",
+    "line": "L1",
+    "product": "厚板",
+    "units": 9,
+    "available_min": 2640,
+    "due_min": 2676,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O05-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 20,
+    "available_min": 2700,
+    "due_min": 2736,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O06-0",
+    "line": "L1",
+    "product": "厚板",
+    "units": 17,
+    "available_min": 2880,
+    "due_min": 2925,
+    "priority": true,
+    "allow_partial": true
+  },
+  {
+    "order": "O06-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 30,
+    "available_min": 2940,
+    "due_min": 2985,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O06-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 22,
+    "available_min": 3000,
+    "due_min": 3045,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O06-3",
+    "line": "L2",
+    "product": "厚板",
+    "units": 26,
+    "available_min": 3060,
+    "due_min": 3105,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O06-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 14,
+    "available_min": 3120,
+    "due_min": 3165,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O06-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 24,
+    "available_min": 3180,
+    "due_min": 3225,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O07-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 18,
+    "available_min": 3360,
+    "due_min": 3414,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O07-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 20,
+    "available_min": 3420,
+    "due_min": 3474,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O07-2",
+    "line": "L1",
+    "product": "厚板",
+    "units": 21,
+    "available_min": 3480,
+    "due_min": 3534,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O07-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 20,
+    "available_min": 3540,
+    "due_min": 3594,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O07-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 22,
+    "available_min": 3600,
+    "due_min": 3654,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O07-5",
+    "line": "L2",
+    "product": "厚板",
+    "units": 26,
+    "available_min": 3660,
+    "due_min": 3714,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O08-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 27,
+    "available_min": 3840,
+    "due_min": 3903,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O08-1",
+    "line": "L2",
+    "product": "厚板",
+    "units": 26,
+    "available_min": 3900,
+    "due_min": 3963,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O08-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 24,
+    "available_min": 3960,
+    "due_min": 4023,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O08-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 24,
+    "available_min": 4020,
+    "due_min": 4083,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O08-4",
+    "line": "L1",
+    "product": "厚板",
+    "units": 12,
+    "available_min": 4080,
+    "due_min": 4143,
+    "priority": true,
+    "allow_partial": true
+  },
+  {
+    "order": "O08-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 19,
+    "available_min": 4140,
+    "due_min": 4203,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O09-0",
+    "line": "L1",
+    "product": "厚板",
+    "units": 16,
+    "available_min": 4320,
+    "due_min": 4392,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O09-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 29,
+    "available_min": 4380,
+    "due_min": 4452,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O09-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 9,
+    "available_min": 4440,
+    "due_min": 4512,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O09-3",
+    "line": "L2",
+    "product": "厚板",
+    "units": 12,
+    "available_min": 4500,
+    "due_min": 4572,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O09-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 21,
+    "available_min": 4560,
+    "due_min": 4632,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O09-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 22,
+    "available_min": 4620,
+    "due_min": 4692,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O10-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 12,
+    "available_min": 4800,
+    "due_min": 4836,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O10-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 9,
+    "available_min": 4860,
+    "due_min": 4896,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O10-2",
+    "line": "L1",
+    "product": "厚板",
+    "units": 27,
+    "available_min": 4920,
+    "due_min": 4956,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O10-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 8,
+    "available_min": 4980,
+    "due_min": 5016,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O10-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 13,
+    "available_min": 5040,
+    "due_min": 5076,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O10-5",
+    "line": "L2",
+    "product": "厚板",
+    "units": 23,
+    "available_min": 5100,
+    "due_min": 5136,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O11-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 17,
+    "available_min": 5280,
+    "due_min": 5325,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O11-1",
+    "line": "L2",
+    "product": "厚板",
+    "units": 15,
+    "available_min": 5340,
+    "due_min": 5385,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O11-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 10,
+    "available_min": 5400,
+    "due_min": 5445,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O11-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 19,
+    "available_min": 5460,
+    "due_min": 5505,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O11-4",
+    "line": "L1",
+    "product": "厚板",
+    "units": 16,
+    "available_min": 5520,
+    "due_min": 5565,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O11-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 21,
+    "available_min": 5580,
+    "due_min": 5625,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O12-0",
+    "line": "L1",
+    "product": "厚板",
+    "units": 13,
+    "available_min": 5760,
+    "due_min": 5814,
+    "priority": true,
+    "allow_partial": true
+  },
+  {
+    "order": "O12-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 12,
+    "available_min": 5820,
+    "due_min": 5874,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O12-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 8,
+    "available_min": 5880,
+    "due_min": 5934,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O12-3",
+    "line": "L2",
+    "product": "厚板",
+    "units": 25,
+    "available_min": 5940,
+    "due_min": 5994,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O12-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 25,
+    "available_min": 6000,
+    "due_min": 6054,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O12-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 12,
+    "available_min": 6060,
+    "due_min": 6114,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O13-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 29,
+    "available_min": 6240,
+    "due_min": 6303,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O13-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 29,
+    "available_min": 6300,
+    "due_min": 6363,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O13-2",
+    "line": "L1",
+    "product": "厚板",
+    "units": 30,
+    "available_min": 6360,
+    "due_min": 6423,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O13-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 17,
+    "available_min": 6420,
+    "due_min": 6483,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O13-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 28,
+    "available_min": 6480,
+    "due_min": 6543,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O13-5",
+    "line": "L2",
+    "product": "厚板",
+    "units": 10,
+    "available_min": 6540,
+    "due_min": 6603,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O14-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 27,
+    "available_min": 6720,
+    "due_min": 6792,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O14-1",
+    "line": "L2",
+    "product": "厚板",
+    "units": 20,
+    "available_min": 6780,
+    "due_min": 6852,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O14-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 26,
+    "available_min": 6840,
+    "due_min": 6912,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O14-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 29,
+    "available_min": 6900,
+    "due_min": 6972,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O14-4",
+    "line": "L1",
+    "product": "厚板",
+    "units": 27,
+    "available_min": 6960,
+    "due_min": 7032,
+    "priority": true,
+    "allow_partial": true
+  },
+  {
+    "order": "O14-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 26,
+    "available_min": 7020,
+    "due_min": 7092,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O15-0",
+    "line": "L1",
+    "product": "厚板",
+    "units": 11,
+    "available_min": 7200,
+    "due_min": 7236,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O15-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 18,
+    "available_min": 7260,
+    "due_min": 7296,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O15-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 24,
+    "available_min": 7320,
+    "due_min": 7356,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O15-3",
+    "line": "L2",
+    "product": "厚板",
+    "units": 11,
+    "available_min": 7380,
+    "due_min": 7416,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O15-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 14,
+    "available_min": 7440,
+    "due_min": 7476,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O15-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 14,
+    "available_min": 7500,
+    "due_min": 7536,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O16-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 20,
+    "available_min": 7680,
+    "due_min": 7725,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O16-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 10,
+    "available_min": 7740,
+    "due_min": 7785,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O16-2",
+    "line": "L1",
+    "product": "厚板",
+    "units": 29,
+    "available_min": 7800,
+    "due_min": 7845,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O16-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 20,
+    "available_min": 7860,
+    "due_min": 7905,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O16-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 18,
+    "available_min": 7920,
+    "due_min": 7965,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O16-5",
+    "line": "L2",
+    "product": "厚板",
+    "units": 28,
+    "available_min": 7980,
+    "due_min": 8025,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O17-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 13,
+    "available_min": 8160,
+    "due_min": 8214,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O17-1",
+    "line": "L2",
+    "product": "厚板",
+    "units": 13,
+    "available_min": 8220,
+    "due_min": 8274,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O17-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 30,
+    "available_min": 8280,
+    "due_min": 8334,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O17-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 17,
+    "available_min": 8340,
+    "due_min": 8394,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O17-4",
+    "line": "L1",
+    "product": "厚板",
+    "units": 28,
+    "available_min": 8400,
+    "due_min": 8454,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O17-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 27,
+    "available_min": 8460,
+    "due_min": 8514,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O18-0",
+    "line": "L1",
+    "product": "厚板",
+    "units": 22,
+    "available_min": 8640,
+    "due_min": 8703,
+    "priority": true,
+    "allow_partial": true
+  },
+  {
+    "order": "O18-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 28,
+    "available_min": 8700,
+    "due_min": 8763,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O18-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 27,
+    "available_min": 8760,
+    "due_min": 8823,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O18-3",
+    "line": "L2",
+    "product": "厚板",
+    "units": 29,
+    "available_min": 8820,
+    "due_min": 8883,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O18-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 23,
+    "available_min": 8880,
+    "due_min": 8943,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O18-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 24,
+    "available_min": 8940,
+    "due_min": 9003,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O19-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 24,
+    "available_min": 9120,
+    "due_min": 9192,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O19-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 20,
+    "available_min": 9180,
+    "due_min": 9252,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O19-2",
+    "line": "L1",
+    "product": "厚板",
+    "units": 26,
+    "available_min": 9240,
+    "due_min": 9312,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O19-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 28,
+    "available_min": 9300,
+    "due_min": 9372,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O19-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 27,
+    "available_min": 9360,
+    "due_min": 9432,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O19-5",
+    "line": "L2",
+    "product": "厚板",
+    "units": 17,
+    "available_min": 9420,
+    "due_min": 9492,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O20-0",
+    "line": "L1",
+    "product": "薄板",
+    "units": 21,
+    "available_min": 9600,
+    "due_min": 9636,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O20-1",
+    "line": "L2",
+    "product": "厚板",
+    "units": 22,
+    "available_min": 9660,
+    "due_min": 9696,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O20-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 9,
+    "available_min": 9720,
+    "due_min": 9756,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O20-3",
+    "line": "L2",
+    "product": "薄板",
+    "units": 8,
+    "available_min": 9780,
+    "due_min": 9816,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O20-4",
+    "line": "L1",
+    "product": "厚板",
+    "units": 12,
+    "available_min": 9840,
+    "due_min": 9876,
+    "priority": true,
+    "allow_partial": true
+  },
+  {
+    "order": "O20-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 14,
+    "available_min": 9900,
+    "due_min": 9936,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O21-0",
+    "line": "L1",
+    "product": "厚板",
+    "units": 21,
+    "available_min": 10080,
+    "due_min": 10125,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O21-1",
+    "line": "L2",
+    "product": "薄板",
+    "units": 27,
+    "available_min": 10140,
+    "due_min": 10185,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O21-2",
+    "line": "L1",
+    "product": "薄板",
+    "units": 29,
+    "available_min": 10200,
+    "due_min": 10245,
+    "priority": false,
+    "allow_partial": false
+  },
+  {
+    "order": "O21-3",
+    "line": "L2",
+    "product": "厚板",
+    "units": 20,
+    "available_min": 10260,
+    "due_min": 10305,
+    "priority": false,
+    "allow_partial": true
+  },
+  {
+    "order": "O21-4",
+    "line": "L1",
+    "product": "薄板",
+    "units": 21,
+    "available_min": 10320,
+    "due_min": 10365,
+    "priority": true,
+    "allow_partial": false
+  },
+  {
+    "order": "O21-5",
+    "line": "L2",
+    "product": "薄板",
+    "units": 16,
+    "available_min": 10380,
+    "due_min": 10425,
+    "priority": false,
+    "allow_partial": false
+  }
+]

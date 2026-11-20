@@ -1,0 +1,122 @@
+{
+  "orders": {
+    "records": 132,
+    "fields": [
+      "order",
+      "line",
+      "product",
+      "units",
+      "available_min",
+      "due_min",
+      "priority",
+      "allow_partial"
+    ]
+  },
+  "history": {
+    "records": 437,
+    "fields": [
+      "order",
+      "event",
+      "resource",
+      "start_min",
+      "end_min",
+      "units",
+      "result"
+    ]
+  },
+  "arrivals": {
+    "records": 132,
+    "fields": [
+      "order",
+      "at_min",
+      "units",
+      "kind"
+    ]
+  },
+  "rosters": {
+    "records": 110,
+    "fields": [
+      "shift",
+      "resource",
+      "start_min",
+      "end_min",
+      "capacity"
+    ]
+  },
+  "route_rules": {
+    "records": 2,
+    "fields": [
+      "product",
+      "assembly",
+      "inspection",
+      "alternative",
+      "max_rework",
+      "allowed_lot_units"
+    ]
+  },
+  "options": {
+    "records": 4,
+    "fields": [
+      "option",
+      "resource",
+      "delta",
+      "install_start_min",
+      "install_end_min",
+      "effective_min",
+      "cost_cents",
+      "exclusive_group"
+    ]
+  },
+  "planning_orders": {
+    "records": 5,
+    "fields": [
+      "order",
+      "line",
+      "product",
+      "units",
+      "available_min",
+      "due_min",
+      "priority",
+      "allow_partial"
+    ]
+  },
+  "wip": {
+    "records": 2,
+    "fields": [
+      "order",
+      "product",
+      "units",
+      "stage",
+      "resource",
+      "queued_min",
+      "required_next"
+    ]
+  },
+  "wip_commitments": {
+    "records": 2,
+    "fields": [
+      "order",
+      "due_min",
+      "priority",
+      "allow_partial"
+    ]
+  },
+  "approvals": {
+    "records": 2,
+    "fields": [
+      "option",
+      "decision",
+      "at_min",
+      "phase"
+    ]
+  },
+  "limits": {
+    "records": 1,
+    "fields": [
+      "shift_minutes",
+      "planning_shifts",
+      "baseline_capacity",
+      "investment_budget_cents"
+    ]
+  }
+}
